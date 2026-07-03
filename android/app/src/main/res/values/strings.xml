@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">bh1:Calc</string>
+    <string name="title_activity_main">bh1:Calc</string>
+    <string name="package_name">com.bh1.calc.app</string>
+    <string name="custom_url_scheme">com.bh1.calc.app</string>
+</resources>
